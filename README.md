@@ -32,11 +32,12 @@ Built with BLoC for state management, a small repository layer, neat Material De
 
  Dart/Flutter plugins
 
-# Setup & run (quick)
+# Setup & run 
 
  Clone the repo
 
  git clone https://github.com/<your-username>/foodflow.git
+ 
  cd foodflow
 
 
